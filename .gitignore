@@ -12,8 +12,9 @@
 /.next/
 /out/
 
-# production
-/build
+#studio 
+/studio/node_modules
+
 
 # misc
 .DS_Store
