@@ -59,5 +59,7 @@ function App() {
 // so do not use like require (nodejs language or any other es6 syntax that is not react/jsx compatible)
 // also set next.config.js strict mode to false thank yoU!
 // also add /studio/node_modules to your gitignore file in the root project so git ignores all of the bulky stuff
+// I decided to separate the studio because I just want to deploy the next app here
+//therefore there are two repositories for the studio (sanity) and the next.js application
 
 export default App;

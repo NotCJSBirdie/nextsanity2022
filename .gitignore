@@ -13,7 +13,10 @@
 /out/
 
 #studio 
-/studio/node_modules
+
+# I decided to separate the studio because I just want to deploy the next app here
+# therefore there are two repositories for the studio (sanity) and the next.js application
+
 
 
 # misc
