@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Welcome to React Sanity Jamstack 2022!</h1>
+      <h1>Welcome to NEXT.JS Sanity Jamstack 2022!</h1>
       {postData &&
         postData.map((post) => (
           <div key={post.slug}>
